@@ -1,0 +1,12 @@
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.exe
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.deps.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.runtimeconfig.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.runtimeconfig.dev.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\bin\Debug\netcoreapp3.1\Rango.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.AssemblyInfoInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.AssemblyInfo.cs
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.csproj.CoreCompileInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\Rago01\Rago\Rango\obj\Debug\netcoreapp3.1\Rango.genruntimeconfig.cache
