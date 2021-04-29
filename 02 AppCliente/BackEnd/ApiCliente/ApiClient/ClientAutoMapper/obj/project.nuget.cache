@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTbo2QyYJyjg+KgslDAnFGpTsARtehJiT/KlTkahQO1Adtj+mg/UnShru7WK6+YPh+qpJhGvhVAiLKgtE6Yk3A==",
+  "success": true,
+  "projectFilePath": "E:\\Aprendiendo Proyecto\\Examen_Tecnico\\BackEnd\\Api\\ApiCliente\\ApiClient\\ClientAutoMapper\\Client.AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Silverman\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Silverman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Silverman\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

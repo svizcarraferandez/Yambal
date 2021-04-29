@@ -1,0 +1,9 @@
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\bin\Debug\netcoreapp3.1\Client.Entities.deps.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\bin\Debug\netcoreapp3.1\Client.Entities.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\bin\Debug\netcoreapp3.1\Client.Entities.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.csprojAssemblyReference.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.AssemblyInfoInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.AssemblyInfo.cs
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.csproj.CoreCompileInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Entities\obj\Debug\netcoreapp3.1\Client.Entities.pdb

@@ -1,0 +1,14 @@
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Domain.deps.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Domain.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Domain.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Entities.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Infraestructure.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Entities.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\bin\Debug\netcoreapp3.1\Client.Infraestructure.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.csprojAssemblyReference.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.AssemblyInfoInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.AssemblyInfo.cs
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.csproj.CoreCompileInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.csproj.CopyComplete
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\Client.Domain\obj\Debug\netcoreapp3.1\Client.Domain.pdb

@@ -1,0 +1,74 @@
+<app-navbar></app-navbar>
+
+<div class="content" role="main">
+    <h1>Registro de cliente</h1>
+    <br>
+    <form [formGroup]="myForm" (ngSubmit)="submitForm()" novalidate>
+
+        <p>
+            <!-- Name -->
+            <mat-form-field class="example-full-width">
+                <input matInput placeholder="Nombres" formControlName="Nombres">
+                <!-- error -->
+                <mat-error *ngIf="errorHandling('Nombres', 'required')">
+                    <strong>Ingresar nombres</strong>
+                </mat-error>
+            </mat-form-field>
+        </p>
+        <p>
+            <!-- Apellidos -->
+            <mat-form-field class="example-full-width">
+                <input matInput placeholder="Apellidos" formControlName="Apellidos">
+                <!-- error -->
+                <mat-error *ngIf="errorHandling('Apellidos', 'required')">
+                    <strong>Ingresar aplellidos</strong>
+                </mat-error>
+            </mat-form-field>
+        </p>
+        <p>
+            <!-- Email -->
+            <mat-form-field class="example-full-width">
+                <input matInput placeholder="Correo" formControlName="Correo">
+                <!-- error -->
+                <mat-error *ngIf="errorHandling('Correo', 'required')">
+                    <strong>Ingrese correo</strong>
+                </mat-error>
+            </mat-form-field>
+        </p>
+        <p>
+            <!-- Date picker -->
+            <mat-form-field>
+                <input matInput readonly [matDatepicker]="picker" placeholder="Fecha Nacimiento"
+                    formControlName="FechaNacimientoString" (dateChange)="date($event)">
+                <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+                <!-- error -->
+                <mat-error *ngIf="errorHandling('FechaNacimientoString', 'required')">
+                    <strong>Selecione fecha de nacimiento</strong>
+                </mat-error>
+            </mat-form-field>
+        </p>
+        <p>
+            <!-- Apellidos -->
+            <mat-form-field class="example-full-width">
+                <input matInput placeholder="Dirección" formControlName="Direccion">
+                <!-- error -->
+                <mat-error *ngIf="errorHandling('Direccion', 'required')">
+                    <strong>Ingresar direción</strong>
+                </mat-error>
+            </mat-form-field>
+        </p>
+
+        <!-- Submit -->
+        <div class="button-wrapper">
+            <button mat-flat-button color="primary">Submit</button>
+
+            <button mat-flat-button color="accendt" routerLink="/ListClient">Cancelar</button>
+        </div>
+
+
+    </form>
+
+
+
+</div>

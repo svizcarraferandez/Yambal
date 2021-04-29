@@ -1,0 +1,9 @@
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\bin\Debug\netcoreapp3.1\Client.AutoMapper.deps.json
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\bin\Debug\netcoreapp3.1\Client.AutoMapper.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\bin\Debug\netcoreapp3.1\Client.AutoMapper.pdb
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.csprojAssemblyReference.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.AssemblyInfoInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.AssemblyInfo.cs
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.csproj.CoreCompileInputs.cache
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.dll
+E:\Aprendiendo Proyecto\Examen_Tecnico\BackEnd\Api\ApiCliente\ApiClient\ClientAutoMapper\obj\Debug\netcoreapp3.1\Client.AutoMapper.pdb
